@@ -11,8 +11,8 @@
 
 
 1. 打开dmg文件
-![Alt text](img/ps2015/step1.png "")
-![Alt text](img/ps2015/step2.png "")
+![Alt text](img/ps2015_cc_mac/step1.png "")
+![Alt text](img/ps2015_cc_mac/step2.png "")
 
 2. 断开网络
   <img src="{{ 'software/ps2015/step7.png' | asset_path }}" class="step-img" />
