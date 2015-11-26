@@ -2,9 +2,7 @@
 
 下载步骤：
 
-前往服务器`afp://172.21.0.196/`，账号：`developer`   密码：`hello1234`
-
-进入`开发共享/mac常用软件`，下载`Photoshop 2015 CC附破解.zip`
+下载[Photoshop 2015 CC附破解.zip](http://pan.baidu.com/s/1eECjW "")
 
 
 ## 安装步骤
