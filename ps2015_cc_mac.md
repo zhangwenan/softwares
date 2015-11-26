@@ -11,7 +11,7 @@
 
 
 1. 打开dmg文件
-![](img/ps2015_cc_mac/step1.png "")
+![](img/ps2015_cc_mac/step1.png =300x20 "")
 ![](img/ps2015_cc_mac/step2.png "")
 
 2. 断开网络
