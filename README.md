@@ -7,3 +7,4 @@
 
 [Intellij Windows版快捷键](https://www.jetbrains.com/idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
+[Photoshop2015 cc mac版的破解及安装](https://github.com/zhangwenan/softwares/blob/master/ps2015_cc_mac.md)
