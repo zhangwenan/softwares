@@ -9,11 +9,10 @@
 
 ## 安装步骤
 
-<style>.step-img{ max-width: 500px; text-align:center; display:block; border:1px solid #ccc; margin-bottom: 10px;}</style>
 
 1. 打开dmg文件
-  <img src="{{ 'software/ps2015/step1.png' | asset_path }}" class="step-img" />
-  <img src="{{ 'software/ps2015/step2.png' | asset_path }}" class="step-img" />
+![Alt text](img/ps2015/step1.png "")
+![Alt text](img/ps2015/step2.png "")
 
 2. 断开网络
   <img src="{{ 'software/ps2015/step7.png' | asset_path }}" class="step-img" />
