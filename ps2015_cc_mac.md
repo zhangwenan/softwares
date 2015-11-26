@@ -29,7 +29,6 @@
 
 6. `接受`协议后，开始`安装`
 ![](img/ps2015_cc_mac/step10.png "")
-
 ![](img/ps2015_cc_mac/step11.png "")
 
 7. 需要输入本机的密码
